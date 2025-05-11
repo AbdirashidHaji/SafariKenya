@@ -1,7 +1,4 @@
 # SafariKenya - Kenyan Travel Website 🌍✈️
-
-![SafariKenya Screenshot](./screenshot.png) *(Add screenshot later)*
-
 A modern, responsive travel website for Kenyan people featuring dark/light mode toggle, popular destinations, travel packages, and booking functionality.
 
 ## Features ✨
